@@ -2,7 +2,7 @@
 
 **Semiconductor Manufacturing Product Engineer | Data Analytics & Automation Engineer**
 
-I’m a semiconductor manufacturing product engineer based in Kaohsiung, Taiwan, with 14+ years of industry experience. Since joining ASE in 2019, my role has evolved to include hands-on ownership of data pipelines, engineering automation, and manufacturing analytics.
+I’m a semiconductor manufacturing product engineer based in Kaohsiung, Taiwan, with 14+ years of industry experience. Since joining ASE in March 2019, my role has evolved to include hands-on ownership of data pipelines, engineering automation, and manufacturing analytics.
 
 ## ⚙️ What I Build
 
