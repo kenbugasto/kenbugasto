@@ -15,8 +15,8 @@ I’m a semiconductor manufacturing product engineer based in Kaohsiung, Taiwan,
 
 - [Semiconductor Yield Analytics](https://github.com/kenbugasto/semiconductor-yield-dashboard) — configurable reporting and dashboards for yield, lots, and retest analysis.
 - [Semiconductor OEE Analytics](https://github.com/kenbugasto/semiconductor-oee-analytics) — equipment and production data integration with interactive performance reports.
-- **SPC Capability Monitoring** — automated capability analysis and engineering reports.
-- **SemiconPlus Manufacturing Lakehouse** — batch and streaming pipelines, data quality, governance, and analytics-ready datasets.
+- [Semiconductor Test Capability Analytics](https://github.com/kenbugasto/semiconductor-test-capability-analytics)  — automated capability analysis and engineering reports.
+- [SemiconPlus Manufacturing Lakehouse - Databricks](https://github.com/kenbugasto/semiconplus-manufacturing-lakehouse)  — batch and streaming pipelines, data quality, governance, and analytics-ready datasets built using Databricks.
 
 Public portfolio examples use anonymized or synthetic data, as identified in each repository.
 
