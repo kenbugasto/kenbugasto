@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I’m Ken
 
-<!--
-**kenbugasto/kenbugasto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analytics & Automation | Semiconductor Manufacturing**
 
-Here are some ideas to get you started:
+I’m a semiconductor manufacturing engineer based in Kaohsiung, Taiwan, with 14+ years of industry experience. Since joining ASE in 2019, my role has evolved to include hands-on ownership of data pipelines, engineering automation, and manufacturing analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ What I Build
+
+- Python, SQL, and DuckDB pipelines for production, test, and equipment data.
+- Configurable analytics platforms supporting **60+ devices and 24+ business groups**.
+- Automated reporting, SPC capability monitoring, and OEE analytics.
+- Lakehouse pipelines using Azure Databricks, PySpark, Delta Lake, and Unity Catalog through independent portfolio work.
+
+## 📊 Selected Work
+
+- [Semiconductor Yield Analytics](https://github.com/kenbugasto/semiconductor-yield-dashboard) — configurable reporting and dashboards for yield, lots, and retest analysis.
+- [Semiconductor OEE Analytics](https://github.com/kenbugasto/semiconductor-oee-analytics) — equipment and production data integration with interactive performance reports.
+- **SPC Capability Monitoring** — automated capability analysis and engineering reports.
+- **SemiconPlus Manufacturing Lakehouse** — batch and streaming pipelines, data quality, governance, and analytics-ready datasets.
+
+Public portfolio examples use anonymized or synthetic data, as identified in each repository.
+
+## 🛠️ Core Tools
+
+Python · SQL · DuckDB · Pandas · Streamlit · Plotly · Power BI  
+Excel VBA · Batch & Shell Scripts · Windows Task Scheduler  
+Azure Databricks · PySpark · Delta Lake · Unity Catalog
+
+## 🎓 Certifications
+
+- Databricks Certified Data Engineer Associate
+- Microsoft Certified: Azure Data Fundamentals
+
+## 🤝 Connect
+
+Interested in data engineering, analytics engineering, and automation opportunities.
+
+[LinkedIn](https://www.linkedin.com/in/ken-patrick-bugasto/)
